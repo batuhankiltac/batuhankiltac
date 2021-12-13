@@ -5,4 +5,4 @@
 - 🌱 I'm currently learning some Java techs.
 - 💬 Ask me about Java techs.
 - 📫 How to reach me: batuhankiltac@gmail.com
-- ![](https://ibb.co/sP9mpjN)
+- ![asd](https://ibb.co/sP9mpjN)
