@@ -1,5 +1,5 @@
 ### Hello everyone 👋
-### After the industry change decision, i am a software developer who is determined to follow his dream. I continue to train and develop from many different sources, mainly in the Java and Spring.
+### After the industry change decision, i am a software developer who is determined to follow his dream. I continue to train and develop from many different sources, mainly in the Java and Spring framework.
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
