@@ -1,5 +1,5 @@
 #### Hello everyone 👋
-#### After the industry change decision, i am a software developer who is determined to follow his dream. I continue to train and develop from many different sources, mainly in the Java and Spring framework.
+#### After the industry change decision, I am a software developer who is determined to follow his dream. I continue to train and develop from many different sources, mainly in Java and Spring framework.
 
 ***
 
