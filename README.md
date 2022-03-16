@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </p>
 
-- :briefcase: Hepsiemlak Java Spring Bootcamp Student.
+- :briefcase: Hepsiemlak Java Spring Bootcamp Participant.
 - 🔭 I’m currently working on some Java and Spring projects by myself.
 - 🌱 I'm currently learning Spring framework.
 - 💬 Ask me about Java techs.
