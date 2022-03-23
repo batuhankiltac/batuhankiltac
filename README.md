@@ -1,5 +1,5 @@
 #### Hello everyone 👋
-#### After the decision to change the industry, I am a software developer determined to follow his dream. I continue to train and improve myself from many different sources for Java and Spring framework. I have developed many Rest API projects with Spring Boot and I continue to work on it.
+#### After the decision to change the industry, I am a software developer determined to follow his dream. I continue to train and improve myself from many different sources for Java and Spring framework. I have developed many Rest API projects with Spring and I continue to work on it.
 
 ***
 
