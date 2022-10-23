@@ -1,6 +1,4 @@
-### Hello everyone 👋
 #### After the decision to change the industry, I am a software developer determined to follow his dream.
-#### I continue to train and improve myself from many different sources for Java and Spring framework.
 
 ***
 
