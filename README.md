@@ -1,4 +1,4 @@
-#### After the decision to change the industry, I am a software developer determined to follow his dream.
+#### I’m a software developer who passionately work to become a software crafter and determined to follow my dream.
 
 ***
 
